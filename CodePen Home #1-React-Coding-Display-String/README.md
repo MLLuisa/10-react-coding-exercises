@@ -1,3 +1,3 @@
 # 1 kata
 
-- Displaya string
+- Display a string
